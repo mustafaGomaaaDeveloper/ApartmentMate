@@ -71,5 +71,20 @@ namespace RoomMateEgypt.Controllers
             }
         }
 
+
+        //[Route("RoomTerms")]
+        //[HttpGet]
+        //public GenericResponse<IEnumerable<Terms>> GetRooms()
+        //{
+        //    try
+        //    {
+        //        //return _unitOfWork.Terms.GetTerms();
+        //    }
+        //    catch
+        //    {
+        //        return new GenericResponse<IEnumerable<Terms>>();
+        //    }
+        //}
+
     }
 }
